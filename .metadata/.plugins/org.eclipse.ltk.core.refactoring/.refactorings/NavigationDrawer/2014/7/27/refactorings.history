@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MainActivity/Creating Swipe Views with Tabs&apos; to &apos;Creating a Navigation Drawer&apos;" description="Rename resource &apos;Creating Swipe Views with Tabs&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Creating Swipe Views with Tabs" name="Creating a Navigation Drawer" stamp="1404403936313" updateReferences="true"/>
+</session>
