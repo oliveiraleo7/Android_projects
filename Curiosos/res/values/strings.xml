@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TravaLinguas</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="texto_base">
+        Texto inicial. Texto inicial. Texto inicial. Texto inicial. Texto inicial. Texto inicial. Texto inicial.
+    </string>
+    <string name="Volta">Volta</string>
+    <string name="Vai">Vai</string>
+    <string name="titulo">VOCE SABIA???</string> 
+
+</resources>
