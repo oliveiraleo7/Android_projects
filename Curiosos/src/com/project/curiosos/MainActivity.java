@@ -1,5 +1,8 @@
 package com.project.curiosos;
 
+import com.google.android.gms.ads.*;
+
+
 import java.util.Random;
 
 import android.os.Bundle;
