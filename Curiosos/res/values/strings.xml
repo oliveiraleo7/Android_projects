@@ -7,8 +7,7 @@
     <string name="texto_base">
         Texto inicial. Texto inicial. Texto inicial. Texto inicial. Texto inicial. Texto inicial. Texto inicial.
     </string>
-    <string name="Volta">Volta</string>
-    <string name="Vai">Vai</string>
+    <string name="outro">Outro</string>
     <string name="titulo">VOCE SABIA???</string> 
 
 </resources>
