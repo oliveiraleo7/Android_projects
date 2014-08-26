@@ -1,0 +1,16 @@
+package com.example.android.effectivenavigation;
+
+public class Livros {
+	
+	private LinkedList<String> livros = new LinkedList<String>();
+
+
+	public Livros() {
+		
+		
+	}
+	
+	
+	
+	
+}

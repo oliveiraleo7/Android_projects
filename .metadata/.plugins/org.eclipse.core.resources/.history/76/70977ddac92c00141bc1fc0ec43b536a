@@ -1,0 +1,36 @@
+package com.example.android.effectivenavigation;
+
+import java.util.LinkedList;
+
+public class Livros {
+	
+	private LinkedList<String> livros = new LinkedList<String>();
+
+
+	public Livros() {
+		
+		livros.add("Geneses");
+		livros.add("Marcos");
+		livros.add("Apocalipse");
+		livros.add("João");
+		livros.add("Salmos");
+		livros.add("Provérbios");
+		livros.add("Canticos");
+		livros.add("Romanos");
+		livros.add("II Corintios");
+		livros.add("III João");
+		livros.add("Lucas");
+		livros.add("Atos");
+		livros.add("Hebreus");
+		livros.add("Sofonias");
+			  
+	}
+	
+	public int getTamanho() {
+		return livros.size();
+	}
+	
+	
+	
+	
+}

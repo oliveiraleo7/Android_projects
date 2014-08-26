@@ -1,0 +1,13 @@
+package com.example.android.effectivenavigation;
+
+static class Livros {
+	
+	String[] livros;
+
+
+	public Livros() {
+	}
+	
+ 
+	
+}
