@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="match_parent"
+   android:layout_height="match_parent"
+   android:orientation="vertical" >
+ 
+    <TextView
+       android:id="@+id/tvNome"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="@string/nome" />
+ 
+    <EditText
+       android:id="@+id/etNome"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:inputType="text"
+       android:ems="10" >
+        <requestFocus />
+    </EditText>
+ 
+    <TextView
+       android:id="@+id/tvMatricula"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="@string/matricula" />
+ 
+    <EditText
+       android:id="@+id/etMatricula"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:inputType="text"
+       android:ems="10" />
+    
+    <TextView
+       android:id="@+id/tvDisciplina"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="@string/disciplina" />
+    
+    <EditText
+       android:id="@+id/etDisciplica"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:inputType="text"
+       android:ems="10" />
+    
+    <TextView
+       android:id="@+id/tvCargaHoraria"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="@string/cargaHoraria" />
+    
+    <EditText
+       android:id="@+id/etCargaHoraria"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:inputType="text"
+       android:ems="10" />
+    
+    <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal"
+       android:weightSum="10" >
+        <Button
+           android:id="@+id/bSQLInsert"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="@string/insertsqlite"
+           android:layout_weight="7"/>
+        <Button
+           android:id="@+id/bSQLView"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="@string/sqlview"
+           android:layout_weight="3" />
+    </LinearLayout>
+    
+     <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal"
+       android:weightSum="2" >
+        <Button
+           android:id="@+id/bSQLDelete"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/sqldelete"
+           android:layout_weight="1"/>
+        <Button
+           android:id="@+id/bSQLEdit"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/sqledit"
+           android:layout_weight="1" />
+    </LinearLayout>
+    
+</LinearLayout>

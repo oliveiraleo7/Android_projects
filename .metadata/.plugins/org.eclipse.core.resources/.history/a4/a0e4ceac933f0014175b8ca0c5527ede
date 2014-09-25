@@ -1,0 +1,9 @@
+package com.project.curiosos;
+
+import java.util.List;
+
+import android.os.AsyncTask;
+
+public class BaixaTextos extends AsyncTask<String, Void, List<Textos> {
+
+}

@@ -1,0 +1,4 @@
+1) Categoria das curiosidades;
+2) Pagina inicial com lista personalizada. Cada item contendo imagem de fundo e nome do item, sobre a imagem;
+3) Pagina de curiosidade com a funcao de navegacao (passar o dedo e ir pro prox)
+4) Baixar nova curiosidades via json

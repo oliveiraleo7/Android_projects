@@ -1,0 +1,15 @@
+package com.project.curiosos;
+
+import java.util.List;
+
+import android.os.AsyncTask;
+
+public class BaixaTextos extends AsyncTask<String, Void, List<Textos>> {
+
+	@Override
+	protected List<Textos> doInBackground(String... arg0) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

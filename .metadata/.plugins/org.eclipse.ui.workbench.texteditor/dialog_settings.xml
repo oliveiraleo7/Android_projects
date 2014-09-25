@@ -13,16 +13,16 @@
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="actionBar" key="selection"/>
+		<item value="url" key="selection"/>
 		<list key="findhistory">
+			<item value="url"/>
+			<item value="pager_title_strip"/>
+			<item value="section_label"/>
 			<item value="actionBar"/>
 			<item value="DemoCollectionPagerAdapter"/>
 			<item value="demo_collection_button`"/>
 			<item value="demo_collection_button"/>
 			<item value="demo_collection"/>
-			<item value="getItem"/>
-			<item value="pager_title_strip"/>
-			<item value="Ä"/>
 		</list>
 		<list key="replacehistory">
 			<item value="$"/>

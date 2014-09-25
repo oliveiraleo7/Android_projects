@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aula SQLite</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="nome">Nome</string>
+    <string name="matricula">Matricula</string>
+    <string name="disciplina">Disciplina</string>
+    <string name="cargaHoraria">Carga Horária</string>
+    
+    <string name="insertsqlite">Inserir</string>
+    <string name="sqlview">Consultar</string>
+    <string name="sqldelete">Deletar</string>
+    <string name="sqledit">Editar</string>
+    
+    <string name="id"></string>
+    
+</resources>
